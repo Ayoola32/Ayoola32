@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am Abubakar Sidiq, a **FrontEnd Engineer** (particularly **React Js**), with a keen eye for detail and beautiful design, create and maintain a better code base for re-usability, capable of continuous learning.
+I am Abubakar Sidiq, a **Software Engineer** (particularly **JavaScirpt, PHP, Laravel, **), with a keen eye for detail and beautiful design, creating and maintaining a better code base for re-usability, capable of continuous learning.
 
 ### Languages
 
