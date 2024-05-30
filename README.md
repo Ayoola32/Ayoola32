@@ -8,8 +8,11 @@ I am Abubakar Sidiq, a **Software Engineer** (particularly **JavaScirpt, PHP, La
 
 <!--
 ![php](https://img.shields.io/badge/php-3178C6?style=for-the-badge&logo=php&logoColor=white) -->
-
+![PHP](https://img.shields.io/badge/PHP-787CB5?style=for-the-badge&logo=php&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+
+
 
 <!-- ![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white) -->
 
